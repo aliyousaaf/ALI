@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-
+<script type='text/javascript' src='//pl24941126.profitablecpmrate.com/49/b4/cb/49b4cbe0e9b4c2e9a71b6a9a7592f49a.js'></script>
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
